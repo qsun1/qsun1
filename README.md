@@ -7,5 +7,5 @@
 - :satellite: Before, I was learning astrophyics and AGN at *department of astronomy*.
 - 📫 How to reach me: sq008@mail.ustc.edu.cn
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=sunqi-ustc)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=dogqi)]()
 
