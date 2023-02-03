@@ -5,7 +5,7 @@
 - 🔭 I’m currently working at *department of Electronic Engineering and Information Science*, [USTC](https://www.ustc.edu.cn)!
 - 🌱 I’m currently learning computer vision and deep learning.
 - :satellite: Before, I was learning astrophyics and AGN at *department of Astronomy*.
-- 📫 How to reach me: sq008@mail.ustc.edu.cn
+- 📫 How to reach me: sq008@mail.ustc.edu.cn / charlesqisun@gmail.com
 
 [![data](https://github-readme-stats.vercel.app/api?username=iamsunqi)]()
 
